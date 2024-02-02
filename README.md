@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pond</h1>
+
+
 <h3 align="center">A beginner developer who is passionate about transitioning into the software development field</h3>
+
+
 <img align="right" alt="picture" width="400" src="https://i.pinimg.com/1200x/19/f7/e5/19f7e5182c015d395ad65418323aecb0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shessire&label=Profile%20views&color=0e75b6&style=flat" alt="shessire" /> </p>
