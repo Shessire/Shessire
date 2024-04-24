@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://portfolio-lhb3sxrmi-shessire.vercel.app/](https://portfolio-lhb3sxrmi-shessire.vercel.app/)
 
-- ⚡ Fun fact **I am very cringe sometimes 😣**
+- ⚡ Fun fact **I am very cringe sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
