@@ -30,5 +30,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shessire&show_icons=true&locale=en&layout=compact" alt="shessire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shessire&show_icons=true&locale=en" alt="shessire" /></p>
-
